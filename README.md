@@ -4,3 +4,5 @@ This note taker app is for people that need to organize and keep track of their 
 
 deployed application: https://fast-reef-63942.herokuapp.com/
 
+![](note-taker-homepage.png)
+![](notes.png)
